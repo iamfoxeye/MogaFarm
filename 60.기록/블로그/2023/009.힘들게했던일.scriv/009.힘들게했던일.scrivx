@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="29D5AEAF-62CA-43F8-8D6F-0F44B836A0EC" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="foxeyeui-iMac" Author="박 명규" Modified="2023-04-29 08:57:21 +0900" ModID="08A46BCC-32B2-4D09-A31F-6FA137EF539B">
+    <Binder>
+        <BinderItem UUID="2B37F15D-F5E0-4E5E-9FCA-4917B96336F2" Type="Folder" Created="2023-03-12 20:11:49 +0900" Modified="2023-03-12 20:12:03 +0900">
+            <Title>표지</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Book (Blue Book)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="00078C68-75C1-4017-B2FB-A91E14994D35" Type="Text" Created="2023-03-12 20:11:45 +0900" Modified="2023-04-27 20:42:35 +0900">
+                    <Title>표지</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>44,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="3C4C780E-5299-4026-8EF6-25689A1F1F16" Type="DraftFolder" Created="2023-03-12 20:06:41 +0900" Modified="2023-04-21 08:21:30 +0900">
+            <Title>2023년4월</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Book (Green Notebook)</IconFileName>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>072924A4-BD16-4989-9AD8-F266482E6127</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="F58065E6-592B-4494-BB1C-AC0E0F31245C" Type="Text" Created="2023-04-21 08:21:05 +0900" Modified="2023-04-27 23:10:31 +0900">
+                    <Title>000.실수모음</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>162,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="B6FC4AE7-15D4-4596-A40C-34B1D45D9EA7" Type="ResearchFolder" Created="2023-03-12 20:06:41 +0900" Modified="2023-03-12 20:06:41 +0900">
+            <Title>리서치</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem UUID="EA204E74-F8E0-412F-8E5E-E13E77DC4473" Type="TrashFolder" Created="2023-03-12 20:06:41 +0900" Modified="2023-03-12 20:06:41 +0900">
+            <Title>휴지통</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="02761DE3-D853-4C5F-8D51-09FFE89C69FC" Color="0.150563 0.150563 0.150563">
+            <Title>바인더</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="09060E48-87CE-4F7A-9F38-F820DA451C47" Color="0.190667 0.172702 0.216529">
+            <Title>검색 결과</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="628488AC-A7AD-48A3-9246-4D8CC2B2DFBE">헤딩</Type>
+            <Type ID="982A3122-5C14-4E67-940A-0B52CF5D94BC">부제</Type>
+            <Type ID="9176F101-6C56-497A-9B70-B73177B544B6">섹션</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>628488AC-A7AD-48A3-9246-4D8CC2B2DFBE</Type>
+            </Folders>
+            <Containers>
+                <Type>9176F101-6C56-497A-9B70-B73177B544B6</Type>
+            </Containers>
+            <Files>
+                <Type>9176F101-6C56-497A-9B70-B73177B544B6</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>라벨</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">라벨 없음</Label>
+            <Label ID="0" Color="0.993495 0.701207 0.732587">적색</Label>
+            <Label ID="1" Color="0.995418 0.790946 0.652385">오렌지</Label>
+            <Label ID="2" Color="0.997722 0.89273 0.652569">황색</Label>
+            <Label ID="3" Color="0.715855 0.948712 0.697692">녹색</Label>
+            <Label ID="4" Color="0.702319 0.888276 0.974252">블루</Label>
+            <Label ID="5" Color="0.957566 0.766747 0.999616">자주색</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>상태</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">상태 없음</Status>
+            <Status ID="0">할 일</Status>
+            <Status ID="1">진행 중</Status>
+            <Status ID="2">최초 드래프트</Status>
+            <Status ID="3">수정된 드래프트</Status>
+            <Status ID="4">최종 드래프트</Status>
+            <Status ID="5">완료</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2023-03-12 20:06:40 +0900" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-04-30 00:00:00 +0900" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2023-04-29 08:57:17 +0900"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2023-04-29 00:00:00 +0900">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="595.275557,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>

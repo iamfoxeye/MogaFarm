@@ -71,10 +71,6 @@
                     <ItemID>ABD410E1-3681-4B1C-8316-B9487EAF0C63</ItemID>
                 </Content>
                 <NavigationHistory CurrentIndex="99">
-                    <HistoryItem Type="BinderItems" ViewMode="Single">BBFF66DC-0628-4E3E-87C6-8FE3BA3668D9</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">709D1F6B-7306-4527-AEEA-9D509455682B</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">2B3C3198-AC21-47FA-A837-DC981F258C1C</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">4778FC78-0982-48E0-9A45-C0FCB57F1B1D</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Corkboard">4778FC78-0982-48E0-9A45-C0FCB57F1B1D,3ED8C3B6-CFA3-444A-AF57-B8434390CF7F,40BD6B0F-35DB-4957-ACBF-AD2C90240EED</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Corkboard">709D1F6B-7306-4527-AEEA-9D509455682B</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">3ED8C3B6-CFA3-444A-AF57-B8434390CF7F</HistoryItem>
@@ -171,6 +167,10 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">ABD410E1-3681-4B1C-8316-B9487EAF0C63</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">3ED8C3B6-CFA3-444A-AF57-B8434390CF7F</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">ABD410E1-3681-4B1C-8316-B9487EAF0C63</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">3ED8C3B6-CFA3-444A-AF57-B8434390CF7F</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">2573F304-B681-4006-8F33-1B82CED89C65</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">3ED8C3B6-CFA3-444A-AF57-B8434390CF7F</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">ABD410E1-3681-4B1C-8316-B9487EAF0C63</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -178,7 +178,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>191,0</Selection>
+                <Selection>259,0</Selection>
             </Text>
             <Outliner>
                 <Columns>

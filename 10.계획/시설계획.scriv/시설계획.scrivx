@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="88E9CF55-4B9E-4545-8EA4-DC3D96FAFD89" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="foxeyeui-iMac" Author="박 명규" Modified="2023-04-17 09:15:20 +0900" ModID="8A88A57B-53AB-47CA-A45E-0248FC0840D3">
+<ScrivenerProject Identifier="88E9CF55-4B9E-4545-8EA4-DC3D96FAFD89" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="foxeyeui-iMac" Author="박 명규" Modified="2023-04-27 08:13:21 +0900" ModID="77787C51-D370-4E36-9497-D36E7DE20D02">
     <Binder>
         <BinderItem UUID="4BAD75AD-B66A-45B2-8985-C54AC5F855E0" Type="Folder" Created="2023-03-17 07:59:27 +0900" Modified="2023-03-17 08:00:11 +0900">
             <Title>새로운 작업</Title>
@@ -101,13 +101,13 @@
                                 <TextSelection>62,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="ABD410E1-3681-4B1C-8316-B9487EAF0C63" Type="Text" Created="2023-04-16 09:53:45 +0900" Modified="2023-04-16 12:04:14 +0900">
+                        <BinderItem UUID="ABD410E1-3681-4B1C-8316-B9487EAF0C63" Type="Text" Created="2023-04-16 09:53:45 +0900" Modified="2023-04-27 08:13:21 +0900">
                             <Title>99.구매목록</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>191,0</TextSelection>
+                                <TextSelection>259,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -828,12 +828,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2023-03-17 07:38:54 +0900" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-04-18 00:00:00 +0900" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2023-04-17 09:15:18 +0900"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-04-28 00:00:00 +0900" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="15" Characters="47" Date="2023-04-27 08:12:29 +0900"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2023-04-17 00:00:00 +0900">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2023-04-27 00:00:00 +0900">
+        <DraftWordCount>15</DraftWordCount>
+        <DraftCharCount>47</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
