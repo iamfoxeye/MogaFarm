@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScappleDocument Version="1.2" ID="CB919E02-59E5-4A65-B4D1-F7B566341649">
+  <Notes>
+    <Note ID="0" FontSize="28.0" Position="1133.1,19.7" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="5" Style="Jagged">0.4 0.608 0.263</Border>
+        <Fill>0.871 0.933 0.831</Fill>
+      </Appearance>
+      <String>농장 프로젝트</String>
+      <Formatting>
+        <FormatRange Bold="Yes">0,7</FormatRange>
+      </Formatting>
+    </Note>
+    <Note ID="1" FontSize="18.0" Position="261.4,269.3" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1">0.722101748 0.8462901711 0.9162385464</Border>
+        <Fill>0.786 0.9204 0.9961</Fill>
+      </Appearance>
+      <String>계획</String>
+      <ConnectedNoteIDs>2</ConnectedNoteIDs>
+    </Note>
+    <Note ID="2" FontSize="15.0" Position="490.8,270.7" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1" Style="Square">0.9024707079 0.8555304408 0.6288680434</Border>
+        <Fill>0.9812 0.9304 0.6851</Fill>
+      </Appearance>
+      <String>영농계획</String>
+      <ConnectedNoteIDs>1</ConnectedNoteIDs>
+    </Note>
+    <Note ID="3" FontSize="15.0" Position="491.2,307.1" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1" Style="Square">0.9024707079 0.8555304408 0.6288680434</Border>
+        <Fill>0.9812 0.9304 0.6851</Fill>
+      </Appearance>
+      <String>작업계획</String>
+      <PointsToNoteIDs/>
+    </Note>
+    <Note ID="4" FontSize="18.0" Position="272.0,499.0" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1">0.722101748 0.8462901711 0.9162385464</Border>
+        <Fill>0.786 0.9204 0.9961</Fill>
+      </Appearance>
+      <String>업무(일)</String>
+      <ConnectedNoteIDs>5</ConnectedNoteIDs>
+    </Note>
+    <Note ID="5" FontSize="15.0" Position="502.2,503.9" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1" Style="Square">0.9024707079 0.8555304408 0.6288680434</Border>
+        <Fill>0.9812 0.9304 0.6851</Fill>
+      </Appearance>
+      <String>과제(작업)</String>
+      <ConnectedNoteIDs>4</ConnectedNoteIDs>
+    </Note>
+    <Note ID="6" FontSize="18.0" Position="268.2,708.5" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1">0.722101748 0.8462901711 0.9162385464</Border>
+        <Fill>0.786 0.9204 0.9961</Fill>
+      </Appearance>
+      <String>운영</String>
+      <ConnectedNoteIDs>8</ConnectedNoteIDs>
+    </Note>
+    <Note ID="7" FontSize="15.0" Position="503.0,814.1" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1" Style="Square">0.9024707079 0.8555304408 0.6288680434</Border>
+        <Fill>0.9812 0.9304 0.6851</Fill>
+      </Appearance>
+      <String>재고관리(농산물, 수확)</String>
+      <ConnectedNoteIDs>21</ConnectedNoteIDs>
+    </Note>
+    <Note ID="8" FontSize="15.0" Position="501.2,707.9" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1" Style="Square">0.9024707079 0.8555304408 0.6288680434</Border>
+        <Fill>0.9812 0.9304 0.6851</Fill>
+      </Appearance>
+      <String>자재관리</String>
+      <ConnectedNoteIDs>6, 19</ConnectedNoteIDs>
+    </Note>
+    <Note ID="9" FontSize="18.0" Position="267.2,954.2" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1">0.722101748 0.8462901711 0.9162385464</Border>
+        <Fill>0.786 0.9204 0.9961</Fill>
+      </Appearance>
+      <String>교육(학습)</String>
+      <ConnectedNoteIDs>10</ConnectedNoteIDs>
+    </Note>
+    <Note ID="10" FontSize="15.0" Position="505.3,950.5" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1" Style="Square">0.9024707079 0.8555304408 0.6288680434</Border>
+        <Fill>0.9812 0.9304 0.6851</Fill>
+      </Appearance>
+      <String>재배</String>
+      <ConnectedNoteIDs>9</ConnectedNoteIDs>
+    </Note>
+    <Note ID="11" FontSize="15.0" Position="506.0,990.1" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1" Style="Square">0.9024707079 0.8555304408 0.6288680434</Border>
+        <Fill>0.9812 0.9304 0.6851</Fill>
+      </Appearance>
+      <String>관리</String>
+      <PointsToNoteIDs/>
+    </Note>
+    <Note ID="12" FontSize="15.0" Position="507.3,1032.0" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1" Style="Square">0.9024707079 0.8555304408 0.6288680434</Border>
+        <Fill>0.9812 0.9304 0.6851</Fill>
+      </Appearance>
+      <String>판매</String>
+      <PointsToNoteIDs/>
+    </Note>
+    <Note ID="13" FontSize="15.0" Position="500.6,540.1" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1" Style="Square">0.9024707079 0.8555304408 0.6288680434</Border>
+        <Fill>0.9812 0.9304 0.6851</Fill>
+      </Appearance>
+      <String>보고(결과)</String>
+      <PointsToNoteIDs/>
+    </Note>
+    <Note ID="19" FontSize="15.0" Position="786.5,702.6" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1" Style="Square">0.753000021 0.753000021 0.753000021</Border>
+        <Fill>0.9219999909 0.9219999909 0.9219999909</Fill>
+      </Appearance>
+      <String>구매</String>
+      <ConnectedNoteIDs>8</ConnectedNoteIDs>
+    </Note>
+    <Note ID="20" FontSize="15.0" Position="786.9,735.5" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1" Style="Square">0.753000021 0.753000021 0.753000021</Border>
+        <Fill>0.9219999909 0.9219999909 0.9219999909</Fill>
+      </Appearance>
+      <String>판매</String>
+    </Note>
+    <Note ID="21" FontSize="15.0" Position="790.5,810.5" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1" Style="Square">0.753000021 0.753000021 0.753000021</Border>
+        <Fill>0.9219999909 0.9219999909 0.9219999909</Fill>
+      </Appearance>
+      <String>입고(수확)</String>
+      <ConnectedNoteIDs>7</ConnectedNoteIDs>
+    </Note>
+    <Note ID="22" FontSize="15.0" Position="789.8,844.2" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1" Style="Square">0.753000021 0.753000021 0.753000021</Border>
+        <Fill>0.9219999909 0.9219999909 0.9219999909</Fill>
+      </Appearance>
+      <String>출고(판매)</String>
+      <PointsToNoteIDs/>
+    </Note>
+    <Note ID="27" FontSize="13.0" Position="1136.9,80.3" Width="200.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <TextColor>0.27000001072883606 0.27000001072883606 0.27000001072883606</TextColor>
+        <Border Weight="1" Style="Square">0.4880000054836273 0.4880000054836273 0.4880000054836273</Border>
+        <Fill>1.0 0.988 0.859</Fill>
+      </Appearance>
+      <String>디렉토리 구조를 프로그램화 하는 것이 프로젝트 목적</String>
+    </Note>
+    <Note ID="32" FontSize="18.0" Position="1324.6,289.5" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1">0.722101748 0.8462901711 0.9162385464</Border>
+        <Fill>0.786 0.9204 0.9961</Fill>
+      </Appearance>
+      <String>업무</String>
+      <ConnectedNoteIDs>33</ConnectedNoteIDs>
+      <PointsToNoteIDs/>
+    </Note>
+    <Note ID="33" FontSize="15.0" Position="1557.2,287.8" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1" Style="Square">0.9024707079 0.8555304408 0.6288680434</Border>
+        <Fill>0.9812 0.9304 0.6851</Fill>
+      </Appearance>
+      <String>과제(작업)</String>
+      <ConnectedNoteIDs>32</ConnectedNoteIDs>
+      <PointsToNoteIDs/>
+    </Note>
+    <Note ID="34" FontSize="15.0" Position="1557.6,324.2" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1" Style="Square">0.9024707079 0.8555304408 0.6288680434</Border>
+        <Fill>0.9812 0.9304 0.6851</Fill>
+      </Appearance>
+      <String>보고(결과, 현황)</String>
+      <PointsToNoteIDs/>
+    </Note>
+    <Note ID="35" FontSize="20.0" Position="1275.5,150.3" Width="165.9">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="2" Style="Jagged">0.4 0.608 0.263</Border>
+        <Fill>0.871 0.933 0.831</Fill>
+      </Appearance>
+      <String>농장관리 프로그램</String>
+      <Formatting>
+        <FormatRange Bold="Yes">4,1</FormatRange>
+      </Formatting>
+    </Note>
+    <Note ID="36" FontSize="20.0" Position="1033.4,150.4" Width="165.9">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="2" Style="Jagged">0.91 0.451 0.616</Border>
+        <Fill>1.0 0.882 0.843</Fill>
+      </Appearance>
+      <String>농장관리 디렉토리</String>
+      <Formatting>
+        <FormatRange Bold="Yes">4,1</FormatRange>
+      </Formatting>
+    </Note>
+    <Note ID="37" FontSize="15.0" Position="500.5,574.6" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1" Style="Square">0.9024707079 0.8555304408 0.6288680434</Border>
+        <Fill>0.9812 0.9304 0.6851</Fill>
+      </Appearance>
+      <String>일지(영농일지)</String>
+      <PointsToNoteIDs/>
+    </Note>
+    <Note ID="38" FontSize="15.0" Position="1560.4,360.5" Width="200.0">
+      <Appearance>
+        <Alignment>Center</Alignment>
+        <Border Weight="1" Style="Square">0.9024707079 0.8555304408 0.6288680434</Border>
+        <Fill>0.9812 0.9304 0.6851</Fill>
+      </Appearance>
+      <String>일정</String>
+      <PointsToNoteIDs/>
+    </Note>
+  </Notes>
+  <BackgroundShapes>
+    <Shape ID="30" Position="1229.9,123.6" Width="20.0" Sticky="no" Height="1130.0">
+      <Appearance>
+        <Border Weight="1" Style="Square">0.7221020460128784 0.8462898135185242 0.9162383675575256</Border>
+        <Fill>0.785999596118927 0.9203998446464539 0.9960998892784119</Fill>
+      </Appearance>
+    </Shape>
+  </BackgroundShapes>
+  <Stacks>
+    <Stack>21-22</Stack>
+  </Stacks>
+  <NoteStyles>
+    <Style Name="Bubble (Blue)" ID="BE480EC4-AAF0-48AE-9817-96C8C9F38DF7" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+      <BorderThickness>1</BorderThickness>
+      <BorderColor>0.668968 0.810267 0.895084</BorderColor>
+      <FillColor>0.743297 0.900297 0.994538</FillColor>
+    </Style>
+    <Style Name="Bubble (Green)" ID="2D14CFA3-ABAC-42C5-9A0D-28A6F1C852C0" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+      <BorderThickness>1</BorderThickness>
+      <BorderColor>0.669411 0.885244 0.567003</BorderColor>
+      <FillColor>0.74379 0.983605 0.630003</FillColor>
+    </Style>
+    <Style Name="Bubble (Pink)" ID="110E9DB1-B669-4B59-9112-92C4C0847A15" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+      <BorderThickness>1</BorderThickness>
+      <BorderColor>0.894548 0.707752 0.715898</BorderColor>
+      <FillColor>0.989117 0.814091 0.999474</FillColor>
+    </Style>
+    <Style Name="Bubble (Red)" ID="DA3E583F-FFA5-412A-A238-41B779F0A5A0" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+      <BorderThickness>1</BorderThickness>
+      <BorderColor>0.894548 0.707752 0.715898</BorderColor>
+      <FillColor>0.993942 0.786391 0.795442</FillColor>
+    </Style>
+    <Style Name="Bubble (Yellow)" ID="8D39E1BC-CDE8-4267-9826-8C6B7932B15D" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+      <BorderThickness>1</BorderThickness>
+      <BorderColor>0.87775 0.828268 0.562122</BorderColor>
+      <FillColor>0.975278 0.920298 0.62458</FillColor>
+    </Style>
+    <Style Name="Red Text" ID="DE842ECF-64AF-44A7-A5E8-F9BD9BFA1CB2" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+      <TextColor>0.985948 0.0 0.026951</TextColor>
+    </Style>
+    <Style Name="Title Text" ID="322FE1EA-9522-4E7C-B584-9FEF8B24715A" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+      <FontSize>28.0</FontSize>
+      <IsBold>Yes</IsBold>
+    </Style>
+  </NoteStyles>
+  <UISettings>
+    <BackgroundColor>0.999737 0.986332 0.931298</BackgroundColor>
+    <DefaultFont>HelveticaNeue</DefaultFont>
+    <NoteXPadding>8.0</NoteXPadding>
+  </UISettings>
+  <PrintSettings PaperSize="595.275574,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScappleDocument>
