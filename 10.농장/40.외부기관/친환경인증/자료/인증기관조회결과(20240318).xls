@@ -1,0 +1,72 @@
+
+
+
+
+
+
+
+
+
+<html >
+<head>
+<meta http-equiv="Content-Type" content="application/vnd.ms-excel; charset=UTF-8" />
+
+<title>인증신청도우미 &gt; 인증기관조회 엑셀다운로드</title>
+
+</head>
+
+
+
+
+<body>
+<form name="form1" method="post" action="/portal/info/Info_certifi_nor.jsp">
+
+
+ 
+
+ 		<table width="658" border="1" cellspacing="0" cellpadding="0">
+	       <tr class="font5">
+                <td width="14%" height="25" align="center"  >지정번호</td>
+                <td width="14%" height="25" align="center"  >지정일자</td>
+                <td width="15%" height="25" align="center"  >인증기관명</td>
+                <td width="17%" height="25" align="center"  >대표자</td>
+                <td width="29%" height="25" align="center"  >인증기관소재지</td>
+                <td width="14%" height="25" align="center"  >전화번호</td>
+                <td width="14%" height="25" align="center"  >인증범위</td>                
+              </tr>
+            
+              
+			 
+	              <tr class="font5"  >
+	                <td width="14%" align="center" height="25" style='mso-number-format:\@' >제49호</td>
+	                <td width="14%" align="center" height="25" style='mso-number-format:\@' >2018-07-16</td>
+	                <td width="15%" align="center" height="25" style='mso-number-format:\@' >주식회사 온누리친환경</td>
+	                <td width="17%" align="center" height="25" style='mso-number-format:\@' >김양임</td>
+	                <td width="29%" align="center" height="25" style='mso-number-format:\@' >충청남도 천안시 서북구 업성2길 117 (업성동)</td>
+	                <td width="14%" align="center" height="25" style='mso-number-format:\@' >041-555-1915</td>
+	                <td width="14%" align="center" height="25" style='mso-number-format:\@' >유기농산물, 유기축산물, 무농약농산물, 무항생제축산물, 취급자, 유기가공식품, 비식용유기가공 양축용동물, 비식용유기가공 애완용동물, 유기양봉 산물·부산물, 무농약원료가공식품</td>
+	              </tr>
+			 
+	              <tr class="font5"  >
+	                <td width="14%" align="center" height="25" style='mso-number-format:\@' >제71호</td>
+	                <td width="14%" align="center" height="25" style='mso-number-format:\@' >2016-01-05</td>
+	                <td width="15%" align="center" height="25" style='mso-number-format:\@' >(주)비씨에스코리아</td>
+	                <td width="17%" align="center" height="25" style='mso-number-format:\@' >오경석</td>
+	                <td width="29%" align="center" height="25" style='mso-number-format:\@' >충청남도 천안시 동남구 청수10길 4-92 (삼룡동) 101호</td>
+	                <td width="14%" align="center" height="25" style='mso-number-format:\@' >041-562-6265</td>
+	                <td width="14%" align="center" height="25" style='mso-number-format:\@' >유기농산물, 유기축산물, 무농약농산물, 무항생제축산물, 취급자, 유기가공식품, 비식용유기가공 양축용동물, 비식용유기가공 애완용동물, 유기양봉 산물·부산물, 무농약원료가공식품</td>
+	              </tr>
+			 
+	              <tr class="font5"  >
+	                <td width="14%" align="center" height="25" style='mso-number-format:\@' >제81호</td>
+	                <td width="14%" align="center" height="25" style='mso-number-format:\@' >2012-04-30</td>
+	                <td width="15%" align="center" height="25" style='mso-number-format:\@' >친환경농업연구원 주식회사</td>
+	                <td width="17%" align="center" height="25" style='mso-number-format:\@' >김동흥</td>
+	                <td width="29%" align="center" height="25" style='mso-number-format:\@' >충청남도 아산시 탕정면 용머리길 40 유니콘 101 지식산업센터 A동 228호</td>
+	                <td width="14%" align="center" height="25" style='mso-number-format:\@' >041-531-2915</td>
+	                <td width="14%" align="center" height="25" style='mso-number-format:\@' >유기농산물, 유기축산물, 무농약농산물, 무항생제축산물, 취급자, 유기가공식품, 비식용유기가공 양축용동물, 비식용유기가공 애완용동물, 무농약원료가공식품</td>
+	              </tr>
+			              
+
+            </table>
+            
