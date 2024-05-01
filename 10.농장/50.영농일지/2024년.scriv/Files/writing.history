@@ -78,5 +78,31 @@
     <Day dwc="-24" dcc="-173" dtwc="530" owc="0" occ="0" dtcc="2176">2024-03-26</Day>
     <Day dwc="-6" dcc="-15" dtwc="596" owc="0" occ="0" dtcc="2444">2024-03-27</Day>
     <Day dwc="33" dcc="141" dtwc="740" owc="0" occ="0" dtcc="3044">2024-03-29</Day>
-    <Day dwc="-6" dcc="-11" owc="0" occ="0">2024-03-31</Day>
+    <Day dwc="-6" dcc="-11" dtwc="934" owc="0" occ="0" dtcc="3856">2024-03-31</Day>
+    <Day dwc="3" dcc="1" dtwc="1030" owc="0" occ="0" dtcc="4255">2024-04-01</Day>
+    <Day dwc="34" dcc="131" dtwc="1263" owc="0" occ="0" dtcc="5205">2024-04-03</Day>
+    <Day dwc="-14" dcc="-52" dtwc="1379" owc="0" occ="0" dtcc="5683">2024-04-04</Day>
+    <Day dwc="-5" dcc="-27" dtwc="1490" owc="0" occ="0" dtcc="6134">2024-04-05</Day>
+    <Day dwc="-22" dcc="-81" dtwc="1579" owc="0" occ="0" dtcc="6504">2024-04-06</Day>
+    <Day dwc="31" dcc="127" dtwc="1699" owc="0" occ="0" dtcc="7001">2024-04-07</Day>
+    <Day dwc="7" dcc="24" dtwc="1832" owc="0" occ="0" dtcc="7539">2024-04-08</Day>
+    <Day dwc="-11" dcc="-41" dtwc="1948" owc="0" occ="0" dtcc="8019">2024-04-09</Day>
+    <Day dwc="-12" dcc="-45" dtwc="2159" owc="0" occ="0" dtcc="8899">2024-04-11</Day>
+    <Day dwc="38" dcc="147" dtwc="2301" owc="0" occ="0" dtcc="9481">2024-04-12</Day>
+    <Day dwc="4" dcc="14" dtwc="2453" owc="0" occ="0" dtcc="10104">2024-04-13</Day>
+    <Day dwc="-3" dcc="-11" dtwc="2596" owc="0" occ="0" dtcc="10689">2024-04-14</Day>
+    <Day dwc="-11" dcc="-36" dtwc="2731" owc="0" occ="0" dtcc="11258">2024-04-15</Day>
+    <Day dwc="11" dcc="46" dtwc="2874" owc="0" occ="0" dtcc="11853">2024-04-16</Day>
+    <Day dwc="-4" dcc="-17" dtwc="3013" owc="0" occ="0" dtcc="12431">2024-04-17</Day>
+    <Day dwc="393" dcc="1610" owc="0" occ="0">2024-04-18</Day>
+    <Day dwc="2" dcc="-1" dtwc="4079" owc="0" occ="0" dtcc="16806">2024-04-19</Day>
+    <Day dwc="27" dcc="86" dtwc="5575" owc="0" occ="0" dtcc="22910">2024-04-22</Day>
+    <Day dwc="-30" dcc="-120" dtwc="6106" owc="0" occ="0" dtcc="25063">2024-04-23</Day>
+    <Day dwc="49" dcc="200" dtwc="6686" owc="0" occ="0" dtcc="27416">2024-04-24</Day>
+    <Day dwc="-28" dcc="-96" dtwc="7238" owc="0" occ="0" dtcc="29673">2024-04-25</Day>
+    <Day dwc="14" dcc="48" owc="0" occ="0">2024-04-27</Day>
+    <Day dwc="-26" dcc="-105" dtwc="8892" owc="0" occ="0" dtcc="36431">2024-04-28</Day>
+    <Day dwc="13" dcc="65" dtwc="9445" owc="0" occ="0" dtcc="38696">2024-04-29</Day>
+    <Day dwc="50" dcc="179" dtwc="10048" owc="0" occ="0" dtcc="41140">2024-04-30</Day>
+    <Day dwc="-24" dcc="-93" owc="0" occ="0">2024-05-01</Day>
 </WritingHistory>
