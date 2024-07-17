@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="88E9CF55-4B9E-4545-8EA4-DC3D96FAFD89" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="foxeyeui-iMac" Author="박 명규" Modified="2024-03-19 18:39:55 +0900" ModID="86BBE4CB-1856-4046-B935-BD96E8311BA3">
+<ScrivenerProject Identifier="88E9CF55-4B9E-4545-8EA4-DC3D96FAFD89" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="foxeyeui-iMac" Author="박 명규" Modified="2024-07-17 16:04:09 +0900" ModID="BEBFACEB-3FDA-4658-A8A0-2E2BE9D0B71B">
     <Binder>
         <BinderItem UUID="4BAD75AD-B66A-45B2-8985-C54AC5F855E0" Type="Folder" Created="2023-03-17 07:59:27 +0900" Modified="2023-03-17 08:00:11 +0900">
             <Title>새로운 작업</Title>
@@ -1555,10 +1555,10 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2023-03-17 07:38:54 +0900" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-03-20 00:00:00 +0900" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2024-03-19 18:39:51 +0900"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-07-18 00:00:00 +0900" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2024-07-17 16:04:06 +0900"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-03-19 00:00:00 +0900">
+    <RecentWritingHistory Date="2024-07-17 00:00:00 +0900">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>

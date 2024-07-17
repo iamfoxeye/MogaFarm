@@ -3,6 +3,7 @@
     <ProjectSettings>
         <Content Scope="Included">
             <Filter State="Off" Exclude="No" Type="Label">
+                <CollectionID>8DC77A8A-BB5A-4A77-AF92-1C6E911874E2</CollectionID>
                 <Label>-1</Label>
                 <Status>-1</Status>
             </Filter>
@@ -67,5 +68,7 @@
             </SectionLayouts>
         </Format>
     </FormatSettings>
-    <LastUsedFormats/>
+    <LastUsedFormats>
+        <Print>modern-ms</Print>
+    </LastUsedFormats>
 </CompileSettings>

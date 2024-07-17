@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="88E9CF55-4B9E-4545-8EA4-DC3D96FAFD89" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="foxeyeui-iMac" Author="박 명규" Modified="2024-05-01 21:44:45 +0900" ModID="0E21729D-BFAE-4C27-B03B-AA7ACDBAEE1A">
+<ScrivenerProject Identifier="88E9CF55-4B9E-4545-8EA4-DC3D96FAFD89" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="foxeyeui-iMac" Author="박 명규" Modified="2024-07-17 22:40:27 +0900" ModID="B1AE0218-E2D3-4B18-8E6D-AD0514350477">
     <Binder>
         <BinderItem UUID="4BAD75AD-B66A-45B2-8985-C54AC5F855E0" Type="Folder" Created="2023-03-17 07:59:27 +0900" Modified="2023-03-17 08:00:11 +0900">
             <Title>새로운 작업</Title>
@@ -22,8 +22,38 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem UUID="2B3C3198-AC21-47FA-A837-DC981F258C1C" Type="DraftFolder" Created="2023-03-17 07:38:55 +0900" Modified="2023-04-09 09:45:20 +0900">
-            <Title>월간작업</Title>
+        <BinderItem UUID="1CC10D3A-4F6E-40F7-B345-8065D6E9ED58" Type="Folder" Created="2024-07-17 21:38:14 +0900" Modified="2024-07-17 21:38:18 +0900">
+            <Title>소개</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Book (Green Book)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="63BAB94F-8F12-4518-8A15-EB376B4DAB59" Type="Text" Created="2024-07-17 21:38:32 +0900" Modified="2024-07-17 21:45:16 +0900">
+                    <Title>모가농장</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>210,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="EA0D8F73-4406-4F9D-B58D-D1FE818E264E" Type="Text" Created="2024-07-17 21:45:23 +0900" Modified="2024-07-17 21:51:41 +0900">
+                    <Title>재배지</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>148,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="2B3C3198-AC21-47FA-A837-DC981F258C1C" Type="DraftFolder" Created="2023-03-17 07:38:55 +0900" Modified="2024-07-17 21:37:32 +0900">
+            <Title>일일작업</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <IconFileName>Book (Green Notebook)</IconFileName>
@@ -49,7 +79,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="0486E4A5-EC37-4B23-A94B-24C2A07D6706" Type="Folder" Created="2023-03-17 08:01:34 +0900" Modified="2023-03-17 08:02:09 +0900">
+                <BinderItem UUID="0486E4A5-EC37-4B23-A94B-24C2A07D6706" Type="Folder" Created="2023-03-17 08:01:34 +0900" Modified="2024-07-17 21:37:42 +0900">
                     <Title>3월</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -59,28 +89,78 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="72A40E7F-8791-4614-842A-A54CABAFFC6C" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-03-19 19:10:46 +0900">
+                        <BinderItem UUID="29015EA1-29DC-4279-A933-714512D30892" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 21:12:38 +0900">
+                            <Title>3월12일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>462,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="4A2EF521-FAA5-4473-BBD6-3F41AEABA80C" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 21:14:19 +0900">
+                            <Title>3월13일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>124,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D2B242CB-B403-42F7-81C4-D550A90948BB" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 21:15:53 +0900">
+                            <Title>3월14일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>407,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D7FECBC0-521D-4950-A8CB-D06F37D2661E" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 21:17:15 +0900">
+                            <Title>3월15일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>364,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="81FD1A48-0394-4CA6-985C-54FB336A4D2D" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 21:18:09 +0900">
+                            <Title>3월17일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>153,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="99EF838C-D57D-48C5-A75F-318E3536BF9E" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 21:20:36 +0900">
+                            <Title>3월18일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>578,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="72A40E7F-8791-4614-842A-A54CABAFFC6C" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 21:21:58 +0900">
                             <Title>3월19일</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>Notes (Blue Notepad)</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>146,0</TextSelection>
+                                <TextSelection>465,35</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="484B175B-8903-45F9-A7EB-69EC9F1D7CBE" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-03-20 13:21:24 +0900">
+                        <BinderItem UUID="484B175B-8903-45F9-A7EB-69EC9F1D7CBE" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 21:23:25 +0900">
                             <Title>3월20일</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <IconFileName>Notes (Blue Notepad)</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>104,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="368167EB-76C7-4E7D-BDFE-22A1DAA98854" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-03-25 13:02:54 +0900">
-                            <Title>3월21일</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>Notes (Blue Notepad)</IconFileName>
@@ -89,54 +169,64 @@
                                 <TextSelection>115,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="200A96D2-F011-4105-9F4A-579713DFB5C9" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-03-25 13:05:22 +0900">
+                        <BinderItem UUID="368167EB-76C7-4E7D-BDFE-22A1DAA98854" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-15 11:26:48 +0900">
+                            <Title>3월21일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>174,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="200A96D2-F011-4105-9F4A-579713DFB5C9" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-15 11:26:48 +0900">
                             <Title>3월22일</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>Notes (Blue Notepad)</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>126,0</TextSelection>
+                                <TextSelection>156,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="88AC8244-A4A4-4D03-8ECB-F9CE3B5F67F8" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-03-25 13:07:57 +0900">
+                        <BinderItem UUID="88AC8244-A4A4-4D03-8ECB-F9CE3B5F67F8" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-15 11:26:48 +0900">
                             <Title>3월23일</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>Notes (Blue Notepad)</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>48,0</TextSelection>
+                                <TextSelection>78,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="F72E02CF-22B8-4A88-861A-310D4B50E3EB" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-03-25 13:04:08 +0900">
+                        <BinderItem UUID="F72E02CF-22B8-4A88-861A-310D4B50E3EB" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-15 11:27:01 +0900">
                             <Title>3월24일</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>Notes (Blue Notepad)</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>164,0</TextSelection>
+                                <TextSelection>84,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="2F729D29-37D8-4260-A5E6-7032C37850BD" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-03-25 13:16:51 +0900">
+                        <BinderItem UUID="2F729D29-37D8-4260-A5E6-7032C37850BD" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-15 11:27:01 +0900">
                             <Title>3월25일</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>Notes (Blue Notepad)</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>455,0</TextSelection>
+                                <TextSelection>142,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="4830DB6C-DD66-4C72-A3B8-DC74B83338E2" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-03-26 22:13:49 +0900">
+                        <BinderItem UUID="4830DB6C-DD66-4C72-A3B8-DC74B83338E2" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-15 11:27:10 +0900">
                             <Title>3월26일</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>Notes (Blue Notepad)</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>282,0</TextSelection>
+                                <TextSelection>189,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="75410950-A162-4614-A977-D75B03A7E7D5" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-03-27 21:53:31 +0900">
@@ -200,9 +290,6 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
-                    <CorkboardAndOutliner>
-                        <SelectedSubdocumentUUIDs>F8F07019-98D9-4887-866C-C21214C5A87A</SelectedSubdocumentUUIDs>
-                    </CorkboardAndOutliner>
                     <Children>
                         <BinderItem UUID="8C5E2FCA-C2BF-486D-A141-A60ED6EBE948" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-04-01 22:07:13 +0900">
                             <Title>4월1일</Title>
@@ -504,16 +591,6 @@
                                 <TextSelection>196,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="017677F0-76F4-465F-BA38-ACCA27D89E85" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-01 21:44:45 +0900">
-                            <Title>5월1일</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <IconFileName>Notes (Blue Notepad)</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>231,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem UUID="70037355-B4A4-4E6D-9321-8AA8E84538BF" Type="Folder" Created="2023-03-17 08:01:39 +0900" Modified="2023-03-17 08:03:28 +0900">
@@ -525,6 +602,298 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem UUID="017677F0-76F4-465F-BA38-ACCA27D89E85" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-01 21:44:45 +0900">
+                            <Title>5월1일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>159,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="B09F4767-64E3-4D4A-8C5E-F219330F025B" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-03 22:10:51 +0900">
+                            <Title>5월2일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>91,3</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="42B122A4-FF59-4B1F-9F4D-29F4B6772839" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-03 22:18:32 +0900">
+                            <Title>5월3일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>302,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="4A1C9376-FE0E-4A00-8558-CBDAA3D84062" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-04 20:17:35 +0900">
+                            <Title>5월4일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>187,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E44308C9-9FF1-4694-AA00-E77178F9FC59" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-06 18:25:42 +0900">
+                            <Title>5월5일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>55,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="77C78E2F-2642-42B4-9E40-22D8257329C5" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-06 18:26:25 +0900">
+                            <Title>5월6일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>80,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="CEDF60CA-1F33-49E8-80BD-A12538C389C2" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-09 22:04:36 +0900">
+                            <Title>5월7일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>130,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F013E0C1-BB5D-4479-903D-8B37C73035AC" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-09 22:15:06 +0900">
+                            <Title>5월8일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>198,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D3FB8C8D-5417-4F12-838F-0C975F0DA69E" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-09 22:16:13 +0900">
+                            <Title>5월9일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>65,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E3E5E1AD-2892-48BE-A91C-CF18DC886B91" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-10 21:09:30 +0900">
+                            <Title>5월10일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>312,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="C993AA8A-F5AD-4E8F-86FA-C4FD97139C66" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-11 18:28:42 +0900">
+                            <Title>5월11일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>478,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="EF61DCE9-55B2-4034-BFFA-3DB3BB958827" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-13 21:36:55 +0900">
+                            <Title>5월12일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>28,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="ECDD9F0B-8695-4FB7-B00C-0BABAA9A6E9C" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-13 22:01:05 +0900">
+                            <Title>5월13일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>713,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="477E7617-6EE6-4593-8B65-2024261DF20A" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-14 21:28:06 +0900">
+                            <Title>5월14일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>328,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="73C085F5-9B19-460A-9364-6E1F2F2A0FDD" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-16 21:42:36 +0900">
+                            <Title>5월15일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>66,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="163E57EC-6A5F-48C5-8304-C60BF4E68A3D" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-16 21:43:33 +0900">
+                            <Title>5월16일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>109,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="444E34C8-8899-481B-BA9B-E5330292707E" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-17 22:29:12 +0900">
+                            <Title>5월17일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>178,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="39D9B8F7-83AC-4A30-8376-018B247C7C51" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-18 22:49:36 +0900">
+                            <Title>5월18일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>205,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="01D1C9FA-92AD-4282-856E-34D42E8AF5AD" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-19 21:20:47 +0900">
+                            <Title>5월19일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>336,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="41EF4F8A-4AAC-4774-ADAE-4307BE15181C" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-20 21:21:09 +0900">
+                            <Title>5월20일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>465,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="6E9FDEAA-BF1F-4696-9A73-FDF364C5F983" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-21 22:46:39 +0900">
+                            <Title>5월21일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>96,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8530EFDC-88A2-43D5-A889-4B77EA8AE47B" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-23 21:04:11 +0900">
+                            <Title>5월22일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>179,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="6B28BD01-2828-4873-9066-34FBD44967C6" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-23 21:10:00 +0900">
+                            <Title>5월23일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>826,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="104A8F7A-1045-48EA-ADC3-10CBC8E0BBD2" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-24 23:34:21 +0900">
+                            <Title>5월24일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>925,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="7AA40D16-3BAC-466D-BFD9-2495AE231914" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-25 22:48:02 +0900">
+                            <Title>5월25일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>267,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="2ACC9A23-E2B6-42B6-8637-0184747410E4" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-27 21:07:28 +0900">
+                            <Title>5월26일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>47,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F357F482-BDA9-49A9-8F66-7D20869ECEBE" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-27 21:13:17 +0900">
+                            <Title>5월27일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>390,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="B932316C-3E2C-48A2-81C0-338A37369BF1" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-30 21:41:57 +0900">
+                            <Title>5월30일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>84,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="C6101E2F-784C-48C3-B82F-8A0A4F68AF47" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-05-31 22:25:42 +0900">
+                            <Title>5월31일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>310,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem UUID="B7D2E02E-E9C9-4ACA-A82D-8822F60561F7" Type="Folder" Created="2023-03-17 08:01:41 +0900" Modified="2023-03-17 08:03:32 +0900">
                     <Title>6월</Title>
@@ -535,6 +904,308 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem UUID="5D1ACB10-8AA5-41A6-AAD6-DCE0DF6FEBCA" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-01 21:43:00 +0900">
+                            <Title>6월 1일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>146,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="0F7637A1-8292-4229-8434-16339E8A4D7D" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-02 21:56:24 +0900">
+                            <Title>6월 2일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>643,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D685B1A3-80FC-47F7-BA31-8B820576C4E6" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-03 21:48:20 +0900">
+                            <Title>6월 3일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>368,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="C84574F1-8F3F-4A53-BAB7-72FBD0270D52" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-04 22:48:20 +0900">
+                            <Title>6월 4일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>635,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="01D111C8-DFFC-4272-8A4F-BD7B4C65B25F" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-05 21:37:25 +0900">
+                            <Title>6월 5일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>188,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="EAAAA5B8-CA7A-4E5B-8851-0507B38C9FB5" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-07 21:03:07 +0900">
+                            <Title>6월 6일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>491,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="25B99411-689F-4A10-BDE1-41916D8592A4" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-07 21:08:11 +0900">
+                            <Title>6월 7일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>511,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="7B77C850-FD88-4571-9187-8B38703E083A" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-09 08:35:44 +0900">
+                            <Title>6월 8일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>449,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="2A8607E0-E313-4F42-94A1-E191C7AB180B" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-09 21:49:59 +0900">
+                            <Title>6월 9일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1745,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="3C0EAB2A-F3E4-4DA1-A165-AE1C1170F0A1" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-10 21:07:42 +0900">
+                            <Title>6월 10일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>105,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E98E37E8-F244-4C8C-8288-F237CE50C0C9" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-11 21:34:53 +0900">
+                            <Title>6월 11일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>226,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="042CFF48-BFC5-4FD5-8047-374872970BE9" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-12 21:29:34 +0900">
+                            <Title>6월 12일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>135,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="240889D1-649D-43E1-AA1D-E86D6DCB3D91" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-14 14:01:30 +0900">
+                            <Title>6월 13일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>45,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F87EC305-ACF8-4AF1-8F8A-C2171B88BD58" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-14 14:04:13 +0900">
+                            <Title>6월 14일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>342,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="1D8EFF47-ACAD-410E-9828-2DA207D7B73F" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-15 20:56:18 +0900">
+                            <Title>6월 15일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>169,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="475E74D8-4A08-4B83-84D1-DDB78EA7A0F1" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-17 00:50:55 +0900">
+                            <Title>6월 16일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>541,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="EB20C8D9-92E3-4986-86A4-8F28481B7BBA" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-18 07:55:47 +0900">
+                            <Title>6월 17일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>38,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="2E41551F-30EC-418A-B918-2F8BFFE0FD8F" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-18 21:38:11 +0900">
+                            <Title>6월 18일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>288,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="3119BCBD-B9C9-4912-A350-BB684DC4A4D7" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-19 22:02:58 +0900">
+                            <Title>6월 19일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>635,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="EF550B9E-9053-4216-AB1C-CAAC3B6126C3" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-21 22:14:59 +0900">
+                            <Title>6월 20일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>184,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="7D3B366C-B432-4712-BD03-EE80D840CE68" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-21 22:17:00 +0900">
+                            <Title>6월 21일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>61,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="0D18836C-3FB1-4318-B030-3A2C7EBBCC96" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-23 22:12:45 +0900">
+                            <Title>6월 22일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>498,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="5794E899-2D9E-4F2E-81D2-BF579562F4D6" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-23 22:16:46 +0900">
+                            <Title>6월 23일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>537,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="DAA86EAA-C5D2-453C-BD36-0C5612407CEB" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-24 21:49:37 +0900">
+                            <Title>6월 24일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>218,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E45FA702-5205-4BEA-8321-D9131D7B3C19" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-25 21:53:31 +0900">
+                            <Title>6월 25일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>248,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="EA05CB8F-6921-4C94-B942-9BDE39357086" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-26 22:25:00 +0900">
+                            <Title>6월 26일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>184,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="7F22EF8C-9BC9-4160-B3DD-B1B7DE1A36CB" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-28 08:52:57 +0900">
+                            <Title>6월 27일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>435,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="B7B87B5F-03FB-42F9-A52B-490EC882E0E4" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-28 22:16:21 +0900">
+                            <Title>6월 28일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>647,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="3F17B174-97FF-445B-A7CA-F0D24531EC7D" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-30 09:13:27 +0900">
+                            <Title>6월 29일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>737,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="868C1C97-DA80-43F5-B5E6-0B687A422ADB" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-06-30 21:58:06 +0900">
+                            <Title>6월 30일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>89,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem UUID="A893DE43-1522-4148-980F-B409543C2731" Type="Folder" Created="2023-03-17 08:01:43 +0900" Modified="2023-03-17 08:03:36 +0900">
                     <Title>7월</Title>
@@ -545,6 +1216,188 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem UUID="17B5A879-6E65-472A-B46C-F4D5F4BE9148" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:40:27 +0900">
+                            <Title>7월 1일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>460,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="5448F62C-6E92-4C49-B522-0758C1016480" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:40:27 +0900">
+                            <Title>7월 2일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>93,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="050CD21C-83E6-45A0-B641-18D5BF5DB473" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:40:27 +0900">
+                            <Title>7월 3일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1401,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="CA8F6B72-A5AD-43B7-B6A5-B1D99A04995C" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:40:27 +0900">
+                            <Title>7월 4일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>208,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="612FB3A4-F29D-42E2-946A-A4908138C405" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:40:27 +0900">
+                            <Title>7월 5일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>292,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="56B84938-FA6C-4697-8A5D-178A772F222E" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:40:27 +0900">
+                            <Title>7월 6일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>513,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="2AB4596B-6EA7-4773-8A89-B89AD5A56BCA" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:40:07 +0900">
+                            <Title>7월 7일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>208,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E911D8C2-BD7A-4C6B-8475-AEEAD4F5F6CE" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:40:07 +0900">
+                            <Title>7월 8일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>182,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="9F2BCDC2-F18D-4105-8598-FB76F67F7889" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:40:07 +0900">
+                            <Title>7월 9일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>467,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="1625E3BE-B71D-4DAD-A3F3-B2A8B5814352" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:40:07 +0900">
+                            <Title>7월 10일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>300,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="98BB26AE-BCF9-445B-9ECB-C91CF7A8947B" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:40:27 +0900">
+                            <Title>7월 11일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>650,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="2CE948D5-944F-49D7-8BE1-B29859397152" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:40:27 +0900">
+                            <Title>7월 12일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>107,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="C673743E-CE1F-4543-9A6B-CC754A139F00" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:40:07 +0900">
+                            <Title>7월 13일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>431,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="40799E30-1C8A-40DC-B692-7916226C3E86" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:40:07 +0900">
+                            <Title>7월 14일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>28,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E308D98C-9FB4-4820-BC1D-12859DCAF5D2" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:40:07 +0900">
+                            <Title>7월 15일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>291,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="9EDDD746-D483-4055-8E96-E0E4049C7DFF" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:40:07 +0900">
+                            <Title>7월 16일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>571,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D9E7B5EC-5F38-4886-B590-A13BA66FED9B" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:40:07 +0900">
+                            <Title>7월 17일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>350,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="0FB6E593-95C8-4048-83B0-500B58678F8F" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:40:07 +0900">
+                            <Title>7월 18일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Notes (Blue Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>54,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem UUID="C34ABAAE-BC4A-4171-9F80-2692B509CF8D" Type="Folder" Created="2023-03-17 08:01:45 +0900" Modified="2023-03-17 08:03:39 +0900">
                     <Title>8월</Title>
@@ -598,11 +1451,88 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem UUID="709D1F6B-7306-4527-AEEA-9D509455682B" Type="Folder" Created="2023-04-09 09:44:30 +0900" Modified="2023-04-09 09:44:58 +0900">
-            <Title>프로젝트</Title>
+        <BinderItem UUID="709D1F6B-7306-4527-AEEA-9D509455682B" Type="Folder" Created="2023-04-09 09:44:30 +0900" Modified="2024-07-17 22:21:29 +0900">
+            <Title>과제</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <IconFileName>Book (Red Book)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="65F1ADE0-1502-485D-86BC-C1C09C083730" Type="Text" Created="2024-06-02 22:27:08 +0900" Modified="2024-07-17 22:21:46 +0900">
+                    <Title>시설</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>52,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="40B35B19-9BA0-4B38-AE0D-99D2CEA9F389" Type="Text" Created="2024-07-17 22:21:56 +0900" Modified="2024-07-17 22:22:38 +0900">
+                    <Title>고추재배</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>10,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="C1CEA200-B6D7-49DF-A205-F035C4383E01" Type="Folder" Created="2024-07-01 21:32:55 +0900" Modified="2024-07-01 21:32:59 +0900">
+            <Title>이슈</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Book (Red Book)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="A70822E9-FA3D-4404-8755-E47A96F6EFBC" Type="Text" Created="2024-07-17 22:26:54 +0900" Modified="2024-07-17 22:26:57 +0900">
+                    <Title>운영이슈</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3FC140A7-AE0E-45E4-8BA5-3A3E2894D955" Type="Text" Created="2024-07-01 21:33:20 +0900" Modified="2024-07-17 22:26:26 +0900">
+                    <Title>시설이슈</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>585,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="914B4B22-AAA7-4708-B2A0-00F182BEA0A6" Type="Text" Created="2024-07-17 22:26:31 +0900" Modified="2024-07-17 22:26:43 +0900">
+                    <Title>재배이슈</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8C3CDE92-1923-4219-8181-DE11B05AA745" Type="Text" Created="2024-07-17 22:26:48 +0900" Modified="2024-07-17 22:26:50 +0900">
+                    <Title>기타이슈</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="518A3026-4925-4644-9D03-8061232FE1C7" Type="Folder" Created="2024-07-17 22:27:28 +0900" Modified="2024-07-17 22:27:40 +0900">
+            <Title>기타</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
                 <TextSelection>0,0</TextSelection>
@@ -614,14 +1544,24 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem UUID="A7FD0CB7-8E07-449E-9791-7DB89B12BD71" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-03-19 19:00:22 +0900">
-                    <Title>작업일지_샘플</Title>
+                <BinderItem UUID="A7FD0CB7-8E07-449E-9791-7DB89B12BD71" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:34:59 +0900">
+                    <Title>작업일지_템플릿1</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <IconFileName>Notes (Blue Notepad)</IconFileName>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>63,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="CC56A4E0-F58A-476D-A1C8-EA2BC21C1D03" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:39:28 +0900">
+                    <Title>작업일지_템플릿2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Notes (Blue Notepad)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>85,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -1929,6 +2869,24 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem UUID="4760639B-1975-43D3-94F5-80DFA5518092" Type="Text" Created="2024-07-17 21:14:52 +0900" Modified="2024-07-17 21:15:04 +0900">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E2FD702B-7388-470C-ABD5-8BE90AFB4067" Type="Text" Created="2023-04-05 09:32:47 +0900" Modified="2024-07-17 22:35:05 +0900">
+                    <Title>작업일지_템플릿2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Notes (Blue Notepad)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>85,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1938,6 +2896,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="8DC77A8A-BB5A-4A77-AF92-1C6E911874E2" Color="0.084464 0.183137 0.21437">
             <Title>검색 결과</Title>
+            <SearchSettings Operator="Any" Type="All" CaseSensitive="No" IgnoreDiacritics="No">미생물</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -1986,14 +2945,14 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2023-03-17 07:38:54 +0900" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-05-02 00:00:00 +0900" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-24" Characters="-93" Date="2024-05-01 21:40:12 +0900"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-07-18 00:00:00 +0900" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="-317" Characters="-1398" Date="2024-07-17 22:20:59 +0900"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-05-01 00:00:00 +0900">
-        <DraftWordCount>-24</DraftWordCount>
-        <DraftCharCount>-93</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2024-07-17 00:00:00 +0900">
+        <DraftWordCount>-317</DraftWordCount>
+        <DraftCharCount>-1398</DraftCharCount>
+        <OtherWordCount>81</OtherWordCount>
+        <OtherCharCount>368</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.275557,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
