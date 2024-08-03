@@ -164,5 +164,18 @@
     <Day dwc="48" dcc="192" dtwc="39523" owc="0" occ="0" dtcc="160768">2024-07-13</Day>
     <Day dwc="-57" dcc="-223" dtwc="40040" owc="0" occ="0" dtcc="162885">2024-07-14</Day>
     <Day dwc="59" dcc="228" owc="0" occ="0">2024-07-15</Day>
-    <Day dwc="20" dcc="-41" owc="78" occ="358">2024-07-17</Day>
+    <Day dwc="-317" dcc="-1398" dtwc="42418" owc="81" occ="368" dtcc="172266">2024-07-17</Day>
+    <Day dwc="414" dcc="1632" owc="283" occ="1110">2024-07-19</Day>
+    <Day dwc="-217" dcc="-866" dtwc="43097" owc="84" occ="350" dtcc="174951">2024-07-20</Day>
+    <Day dwc="73" dcc="285" dtwc="43376" owc="0" occ="0" dtcc="176041">2024-07-21</Day>
+    <Day dwc="-164" dcc="-647" owc="0" occ="0">2024-07-22</Day>
+    <Day dwc="88" dcc="370" dtwc="43834" owc="14" occ="60" dtcc="177846">2024-07-24</Day>
+    <Day dwc="154" dcc="557" owc="0" occ="0">2024-07-25</Day>
+    <Day dwc="-142" dcc="-534" dtwc="44422" owc="0" occ="0" dtcc="180118">2024-07-26</Day>
+    <Day dwc="65" dcc="251" dtwc="44845" owc="0" occ="0" dtcc="181765">2024-07-28</Day>
+    <Day dwc="-68" dcc="-276" dtwc="45057" owc="0" occ="0" dtcc="182576">2024-07-29</Day>
+    <Day dwc="-22" dcc="-92" dtwc="45247" owc="0" occ="0" dtcc="183295">2024-07-30</Day>
+    <Day dwc="61" dcc="249" dtwc="45498" owc="0" occ="0" dtcc="184263">2024-07-31</Day>
+    <Day dwc="6" dcc="45" dtwc="45755" owc="0" occ="0" dtcc="185276">2024-08-01</Day>
+    <Day dwc="-28" dcc="-145" owc="0" occ="0">2024-08-03</Day>
 </WritingHistory>
